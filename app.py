@@ -1,4 +1,6 @@
+# app.py
 def hello():
-    return "Hello, world?"
+    return "Hello, World!"  # Huruf kapital 'W' dan tanpa tanda tanya
+
 if __name__ == "__main__":
-    print(hello())
+    print(hello())  # Output akan: Hello, World!
